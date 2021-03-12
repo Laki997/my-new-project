@@ -1,0 +1,1 @@
+Ovo je moj readme file i ja sam lazar kalajdzic. Prvi git projekat
